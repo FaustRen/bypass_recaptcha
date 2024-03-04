@@ -12,4 +12,3 @@ webdriver_manager==4.0.1
 
 
 ## Demo
-[YouTube link](https://www.youtube.com/watch?v=bfFoWJPeSAE)
