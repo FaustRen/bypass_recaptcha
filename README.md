@@ -9,6 +9,3 @@ bypass google recaptcha with python selenium without paying
 selenium==4.18.1
 webdriver_manager==4.0.1
 ```
-
-
-## Demo
