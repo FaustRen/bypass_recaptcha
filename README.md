@@ -12,6 +12,6 @@ The bypass process will begin whenever you visit a webpage with Google verificat
 ![image](https://github.com/FaustRen/bypass_recaptcha/blob/main/demo.gif)
 ## Installation
 ```bash
-selenium==4.18.1
-webdriver_manager==4.0.1
+selenium
+webdriver_manager
 ```
