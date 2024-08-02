@@ -9,6 +9,7 @@ Click the square box to the left of the "I'm not a robot" text
 Start bypassing the verification
 The bypass process will begin whenever you visit a webpage with Google verification.
 
+![image](https://github.com/FaustRen/bypass_recaptcha/blob/main/demo.gif)
 ## Installation
 ```bash
 selenium==4.18.1
