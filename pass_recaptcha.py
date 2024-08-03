@@ -20,8 +20,7 @@ driver.get(url)
 # chrome_options = webdriver.ChromeOptions()
 # chrome_options.add_extension("./crx_folder/auto_recaptcha_solver.crx")
 # chrome_options.add_extension("./crx_folder/recaptcha_autoclick.crx")
-# # driver_path = "please setting your driver path"
-# driver_path = "/Users/renren/Downloads/chromedriver-mac-arm64/chromedriver"
+# driver_path = "please setting your driver path"
 # svc = Service(driver_path)
 # driver = webdriver.Chrome(service=svc,options=chrome_options)
 # driver.get(url)
